@@ -13,3 +13,4 @@ class Solution:
             num=num//10
         return sum1
         
+        
